@@ -1,7 +1,7 @@
 <?php
 include 'db.php';
 
-// demo user (later session use korbe)
+// demo user (later session use korbe) // Demo
 $user_id = 1;
 
 $sql = "SELECT * FROM users WHERE id=$user_id";
